@@ -1,0 +1,23 @@
+.bi {
+    font-size: 1.5rem;
+    color: white;
+}
+
+.bi-pencil-square {
+    color: #CA8A03;
+}
+
+.bi-trash {
+    color: red;
+}
+
+.post-modal-form {
+    margin-top: 50px;
+}
+
+.post-modal-form-item {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center;
+
+}
